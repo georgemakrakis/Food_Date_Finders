@@ -1,0 +1,9 @@
+c:\users\georg\documents\visual studio 2017\Projects\sitisi\sitisi\bin\Debug\sitisi.exe.config
+c:\users\georg\documents\visual studio 2017\Projects\sitisi\sitisi\bin\Debug\sitisi.exe
+c:\users\georg\documents\visual studio 2017\Projects\sitisi\sitisi\bin\Debug\sitisi.pdb
+c:\users\georg\documents\visual studio 2017\Projects\sitisi\sitisi\obj\Debug\sitisi.csprojResolveAssemblyReference.cache
+c:\users\georg\documents\visual studio 2017\Projects\sitisi\sitisi\obj\Debug\sitisi.exe
+c:\users\georg\documents\visual studio 2017\Projects\sitisi\sitisi\obj\Debug\sitisi.pdb
+C:\Users\George Makrakis\Documents\Visual Studio 2017\Projects\sitisi\sitisi\obj\Debug\sitisi.csprojResolveAssemblyReference.cache
+C:\Users\George Makrakis\Documents\Visual Studio 2017\Projects\sitisi\sitisi\obj\Debug\sitisi.exe
+C:\Users\George Makrakis\Documents\Visual Studio 2017\Projects\sitisi\sitisi\obj\Debug\sitisi.pdb
